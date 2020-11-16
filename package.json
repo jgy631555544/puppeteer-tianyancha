@@ -1,0 +1,16 @@
+{
+  "name": "tt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-xlsx": "^0.15.0",
+    "puppeteer": "^5.4.1",
+    "puppeteer-core": "^5.4.1"
+  }
+}
